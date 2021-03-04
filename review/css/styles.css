@@ -1,0 +1,112 @@
+/* Set colors for the page */
+body{
+    /* text-align: center; */
+    background-color: #ba2be2;
+    /* color: darkslategrey; */
+    font-size: larger; /* this is the font color*/
+} 
+
+q {
+    color: cornsilk;
+    font-family: initial;
+}
+
+p {
+    color: cornsilk;
+    font-family: auto;
+    font-size: smaller;
+    text-align: right;
+}
+
+p {
+    color: indigo;
+    font-family: monospace;
+    font-size: large;
+    text-align: center;
+}
+
+h3 {
+    color: darkslategray;
+    font-family: fantasy;
+    font-size: x-large;
+    text-align: center;
+}
+
+p {
+    color: indigo;
+    font-family: monospace;
+    font-size: large;
+    text-align: center;
+}
+
+h2 {
+    color: cornsilk;
+    font-family: fantasy;
+    font-size: x-large;
+    text-align: center;
+}
+
+p {text-align: center;color: indigo;font-family: monospace;font-size: large;}
+
+h1 {
+    font-family: fantasy;
+}
+
+p {
+    font-family: fantasy;
+    text-align: right;
+    font-size: medium;
+    color: ghostwhite;
+}
+
+p {
+    color: indigo;
+    font-family: monospace;
+    font-size: large;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: darkslategray;
+    font-size: larger;
+}
+
+/* create styles for the h1 tag */
+
+/* Sample - pick your own colors and settings. Make sure to include the ; at the end of the line
+
+h1{
+    color: teal;
+    font-family: serif;
+    font-size: larger;
+    text-align: center;
+}
+*/
+h1{color: rgb(20, 32, 37);font-family: fantasy;font-size: x-large;text-align: center;}
+
+/* create styles for the h2 tag */
+h2{ color: rgb(20, 32, 37);
+font-size: x-large;
+text-align: center;}
+
+h3{ color: rgb(20, 32, 37);
+font-size: x-large;
+text-align: center;}
+
+
+
+
+
+
+/* create styles for the h3 tag */
+
+
+/* create styles for the p tag */
+
+img{
+    width: 45%;
+    display: block;
+    margin: 10px auto; 
+    /* this set of 3 commands centers. 10px is spacing top and bottom, auto is left and right*/
+}   

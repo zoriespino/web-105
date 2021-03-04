@@ -1,0 +1,59 @@
+body{
+    background-color: teal;
+    background: rgb(216, 114, 162);
+    color: darkblue;
+    font-size: large;
+    color: darkmagenta;
+    color: antiquewhite;
+    font-weight: 300;
+}
+
+img {
+    width: 550px;
+    display: block;
+    margin: 10px auto;
+    padding: 15px;
+}
+
+h4, h2, h3 {
+    font-family: fantasy;
+    color: #03031b;
+    text-decoration: underline;
+}
+
+
+.container{
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+nav{
+    text-align: center;
+
+}
+
+nav a {
+    color: rgb(3, 3, 44);
+    font-family: system-ui;
+    text-decoration: none;
+}
+
+ul{
+    font-family: cursive;
+    list-style-type: square;
+    color: rgb(70, 0, 128);
+    
+}
+
+ol{
+    color: white;
+}
+
+    dt{color:darkred}
+
+footer{
+    color:wheat
+}
