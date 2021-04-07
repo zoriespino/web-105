@@ -1,0 +1,182 @@
+/* Color Theme Swatches in RGBA */
+.color-theme_wallpaper2-1-rgba { color: rgba(115, 41, 103, 1); }
+.color-theme_wallpaper2-2-rgba { color: rgba(174, 149, 191, 1); }
+.color-theme_wallpaper2-3-rgba { color: aliceblue;}
+.color-theme_wallpaper2-4-rgba { color: rgba(220, 230, 242, 1); }
+.color-theme_wallpaper2-5-rgba { color: rgba(28, 64, 51, 1); }
+
+*{
+
+    overflow: auto;
+
+    
+}
+header{
+    background-color: rgba(220, 230, 242, 1); 
+
+}
+
+body{
+
+   background-color: rgba(174, 149, 191, 1);
+
+
+
+}
+footer{
+    font-family: 'Merienda', cursive;
+background-color: aliceblue;
+color:#c58eb8;
+ text-align:center;
+
+   text-decoration:none;
+  
+   
+    padding:10px 16px;
+   
+   
+    border:2px soild white;
+    font-weight:lighter;
+
+     
+}
+
+.container{
+    width: 80%;
+    max-width: 1000px;
+    margin: 10px auto;
+     background-color:  rgba(220, 230, 242, 1);
+
+}
+h1{
+    font-family: 'Shippori Mincho B1', serif;
+    text-align:center;
+    padding:20px;
+
+
+}
+h2{
+  font-family:ui-sans-serif;
+    text-align:center;
+        background-color: rgba(115, 41, 103, 1);
+    height:50px;
+    color:antiquewhite;
+    padding:5px 5px;
+    font-size:25px;
+
+   
+
+}
+
+h3{
+     background-color:#e7e8f1;
+
+
+}
+p{
+   color:#00000e;
+    font-family: 'PT Sans', sans-serif;
+}  
+nav{
+font-family: 'Merienda', cursive;
+background-color: aliceblue;
+color:#c58eb8;
+ text-align:center;
+
+   text-decoration:none;
+  
+   
+    padding:10px 16px;
+   
+   
+    border:2px soild white;
+
+
+
+
+}
+
+nav a, .button{
+    text-decoration:none;
+    color:#4e2d01;
+
+   
+
+
+
+}
+
+nav a:hover, .button:hover{
+color:antiquewhite;
+background-color:black;
+}
+
+
+#me{
+    padding: 10px;
+    width: 30%;
+    float: right;
+}
+#mcclogo{
+  float:right;
+}
+#hornet{
+  float:right;
+}
+
+
+#solder{
+  float:left;
+}
+#sentry{
+  float:right;
+  padding:20px;
+}
+#eww{
+  float:right;
+}
+#mac{
+  float:right;
+  padding:20px;
+}
+#walmart{
+  float:right;
+}
+
+figcaption{
+  padding:10px;
+
+ 
+
+}
+aside{
+   
+    background-color: rgba(220, 230, 242, 1);
+
+    width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+ 
+
+}
+
+li, ol{
+  font-family:system-ui;
+ 
+}
+li{
+  font-size:20px;
+  
+}
+/*link to hornet https://res-1.cloudinary.com/rivals/image/upload/f_auto,q_auto,t_headline_primary/bqz52z6d7mdahlgndoxa" 
+ Link to MCC LOGO https://th.bing.com/th/id/R0269da8107003e527713f9520d579271?rik=uSOY9%2fVZqBDOAg&riu=http%3a%2f%2fmcdef.org%2fwp-content%2fuploads%2fMCC-logo.png&ehk=RcgX7v3Pm9sUPTqq5l3X%2bDJaOl5%2f2o3FUM2o4y3OQsc%3d&risl=&pid=ImgRaw 
+ Link to Walmart Info https://www.walmart.com/store/910-lake-geneva-wi 
+
+
+
+
+
+
+ */
